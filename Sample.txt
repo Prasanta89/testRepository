@@ -4,5 +4,7 @@ The objective of this file creation is to check the features of GitHub.
 
 Now adding certain lines for demo purpose.
 
-Thanks,
+Adding advanced features for new branch.
+
+Regards,
 Prasanta
