@@ -2,5 +2,7 @@ Hello World!
 
 This is a sample file.
 
+The objective of this file creation is to check the features of GitHub.
+
 Thanks,
 Prasanta
